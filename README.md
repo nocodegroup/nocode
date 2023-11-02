@@ -1,4 +1,5 @@
-# Turbocode: Design, develop, deliver
+# Turbocode
+Build Powerful Apps with AI
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub issues](https://img.shields.io/github/issues/turbocodeHQ/turbocode)](https://github.com/turbocodeHQ/turbocode/issues)
